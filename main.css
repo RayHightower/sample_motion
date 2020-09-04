@@ -383,7 +383,7 @@ header > .social a:hover svg path { fill: #709c32; transition: all 0.1s ease-in-
 .section-venue .sscc-illustration { padding-left: 1%; padding-top: 1.5rem; padding-bottom: 50%; }
 @media only screen and (min-width: 67.063em) { .section-venue .sscc-illustration { float: left; } }
 .section-venue .sscc-illustration .drone { width: 15%; height: 25px; position: absolute; top: 9%; left: 40%; transition: all 10s ease-in-out; animation-direction: normal; animation-duration: 10s; animation-iteration-count: infinite; animation-name: hover; animation-timing-function: ease-in-out; }
-@media only screen and (min-width: 45.063em) { .section-venue .sscc-illustration .drone { width: 58px; } }
+@media only screen and (min-width: 45.063em) { .section-venue .sscc-illustration .drone { width: 100px; } }
 .section-venue .sscc-illustration .blade { animation-direction: normal; animation-duration: 1ms; animation-iteration-count: infinite; animation-name: rotating; animation-timing-function: ease-in-out; }
 .section-venue .sscc-illustration .light { animation-direction: normal; animation-duration: 1.5s; animation-iteration-count: infinite; animation-name: flash-light; animation-timing-function: linear; }
 .section-venue .content-wrap { text-align: center; }
